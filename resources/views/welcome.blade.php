@@ -23,7 +23,7 @@
 
 <body class="antialiased">
     <div id="app" class="container p-4 mx-auto">
-         <h1> محمد البريهي يحييكم من الحوبان </h1>
+         <layout-component />
     </div>
     <script src="{{ mix('js/app.js') }}"></script>
 
